@@ -69,8 +69,8 @@ print(list_of_nums)
 ```
 
 ## Output:
-![OUTPUT1](bubblesort.png)
-![OUTPUT2](insertionsort.png)
+![output1](bubble.png)
+![output2](insertion.png)
 
 
 ## Result:
